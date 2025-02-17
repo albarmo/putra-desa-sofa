@@ -2586,6 +2586,12 @@ input#nav-toggle:checked ~ #nav-menu {
 .h-screen {
   height: 100vh;
 }
+.h-10 {
+  height: 2.5rem;
+}
+.h-40 {
+  height: 10rem;
+}
 .min-h-\[980px\] {
   min-height: 980px;
 }
@@ -2621,6 +2627,12 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .w-screen {
   width: 100vw;
+}
+.w-56 {
+  width: 14rem;
+}
+.w-40 {
+  width: 10rem;
 }
 .min-w-\[160px\] {
   min-width: 160px;
@@ -2932,6 +2944,10 @@ input#nav-toggle:checked ~ #nav-menu {
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
+.py-28 {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
@@ -2951,14 +2967,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .py-\[2\.5px\] {
   padding-top: 2.5px;
   padding-bottom: 2.5px;
-}
-.py-36 {
-  padding-top: 9rem;
-  padding-bottom: 9rem;
-}
-.py-28 {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
 }
 .pb-0 {
   padding-bottom: 0px;
@@ -3002,20 +3010,14 @@ input#nav-toggle:checked ~ #nav-menu {
 .pt-16 {
   padding-top: 4rem;
 }
-.pt-\[52px\] {
-  padding-top: 52px;
-}
-.pt-20 {
-  padding-top: 5rem;
+.pt-28 {
+  padding-top: 7rem;
 }
 .pt-40 {
   padding-top: 10rem;
 }
-.pt-36 {
-  padding-top: 9rem;
-}
-.pt-28 {
-  padding-top: 7rem;
+.pt-\[52px\] {
+  padding-top: 52px;
 }
 .text-left {
   text-align: left;
