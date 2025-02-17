@@ -30,7 +30,7 @@ var path = {
 
   // build paths
   build: {
-    dir: "theme/",
+    dir: "production/",
   },
 };
 
